@@ -1,5 +1,4 @@
-.widthandborder{
-    border: 1px solid#000000;
+.header{
     width: 100%;
     padding:16px 0px;
 }
@@ -17,6 +16,8 @@ align-items: center;
 justify-content: space-between;
 }
 li{
+    font-weight: 700;
+    color: #4c4c4c;
 margin: 7px 7px;
 list-style: none;
 }
