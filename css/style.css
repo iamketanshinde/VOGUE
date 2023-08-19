@@ -1,0 +1,22 @@
+.widthandborder{
+    border: 1px solid#000000;
+    width: 100%;
+    padding:16px 0px;
+}
+.head-content{
+    display: flex;
+    justify-items: center;
+}
+.container {
+width: 800px;
+margin: 0 auto;
+}
+.inlinecontent {
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+li{
+margin: 7px 7px;
+list-style: none;
+}
