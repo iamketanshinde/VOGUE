@@ -34,3 +34,16 @@ list-style: none;
     text-transform: uppercase;
     font-style:italic;
 }
+.sidebar{
+    width: 33.33%;
+    margin: 0px 2.5px;
+    text-align:left;
+    display: flex;
+}
+.hello{
+    font-size: 18px;letter-spacing:1.5px;
+    color: #4c4c4c;
+    font-weight: 300;
+    margin-left: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
