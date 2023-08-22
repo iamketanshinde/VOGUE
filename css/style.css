@@ -54,4 +54,9 @@ list-style: none;
 .scroll{
     overflow: auto;
     white-space: nowrap;
+    opacity: 0.6;
+}
+.micky{
+    margin: 5% 5%;
+    margin-top: 0%;
 }
