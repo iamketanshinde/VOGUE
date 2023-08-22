@@ -45,5 +45,13 @@ list-style: none;
     color: #4c4c4c;
     font-weight: 300;
     margin-left: 5%;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: AdobeGaramondPro, serif;
+}
+.tfive{
+    width: 25%;
+    margin:35px 15px;
+}
+.scroll{
+    overflow: auto;
+    white-space: nowrap;
 }
